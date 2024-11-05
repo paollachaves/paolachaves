@@ -1,0 +1,198 @@
+{
+    "version": "0.4",
+    "title": "404 Error",
+    "type": "section",
+    "metadata": {
+        "template_type": "single-404",
+        "include_in_zip": "1",
+        "elementor_pro_required": null,
+        "wp_page_template": "elementor_header_footer"
+    },
+    "content": [
+        {
+            "id": "45f06560",
+            "settings": {
+                "height": "min-height",
+                "custom_height": {
+                    "unit": "vh",
+                    "size": 90,
+                    "sizes": []
+                },
+                "custom_height_tablet": {
+                    "unit": "vh",
+                    "size": "",
+                    "sizes": []
+                },
+                "custom_height_mobile": {
+                    "unit": "vh",
+                    "size": "",
+                    "sizes": []
+                },
+                "background_background": "classic",
+                "background_image": {
+                    "url": "http:\/\/gtkit.rometheme.pro\/goodsound\/wp-content\/uploads\/sites\/2\/2022\/04\/music-producer-hands-while-working-on-a-mixing-sou-ST29G5Z.jpg",
+                    "id": 999,
+                    "alt": "",
+                    "source": "library"
+                },
+                "background_position": "center center",
+                "background_size": "cover",
+                "background_overlay_background": "classic",
+                "__globals__": {
+                    "background_overlay_color": "globals\/colors?id=f3cc129"
+                }
+            },
+            "elements": [
+                {
+                    "id": "5f3cd048",
+                    "settings": {
+                        "_column_size": 100,
+                        "_inline_size": null
+                    },
+                    "elements": [
+                        {
+                            "id": "82dc756",
+                            "settings": {
+                                "title": "Error",
+                                "align": "center",
+                                "title_color": "#F4F4F4",
+                                "__globals__": {
+                                    "title_color": "globals\/colors?id=460176a",
+                                    "typography_typography": "globals\/typography?id=975bc63"
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "heading",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "302c4929",
+                            "settings": {
+                                "title": "404",
+                                "align": "center",
+                                "title_color": "#E12929",
+                                "__globals__": {
+                                    "title_color": "globals\/colors?id=b09e89f",
+                                    "typography_typography": "globals\/typography?id=28eaf86"
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "heading",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "2286d781",
+                            "settings": {
+                                "title": "Page Not Found!",
+                                "align": "center",
+                                "__globals__": {
+                                    "title_color": "globals\/colors?id=460176a",
+                                    "typography_typography": "globals\/typography?id=f9fef8c"
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "heading",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "7a5bb4cf",
+                            "settings": {
+                                "editor": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi pharetra magna a lacus dignissim, sed scelerisque elit rutrum. Nam a pulvinar sapien, a placerat arcu. Nam condimentum orci et semper rutrum.<\/p>",
+                                "align": "center",
+                                "_margin": {
+                                    "unit": "%",
+                                    "top": "0",
+                                    "right": "20",
+                                    "bottom": "0",
+                                    "left": "20",
+                                    "isLinked": false
+                                },
+                                "_margin_tablet": {
+                                    "unit": "%",
+                                    "top": "0",
+                                    "right": "5",
+                                    "bottom": "0",
+                                    "left": "5",
+                                    "isLinked": false
+                                },
+                                "_margin_mobile": {
+                                    "unit": "%",
+                                    "top": "",
+                                    "right": "",
+                                    "bottom": "",
+                                    "left": "",
+                                    "isLinked": true
+                                },
+                                "__globals__": {
+                                    "text_color": "globals\/colors?id=0b5cfad",
+                                    "typography_typography": "globals\/typography?id=029707a"
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "text-editor",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "5808d585",
+                            "settings": {
+                                "text": "BACK TO HOME",
+                                "align": "center",
+                                "button_text_color": "#F4F4F4",
+                                "background_color": "#E12929",
+                                "button_background_hover_color": "#F4F4F400",
+                                "button_hover_border_color": "#F4F4F4",
+                                "border_border": "solid",
+                                "border_width": {
+                                    "unit": "px",
+                                    "top": "2",
+                                    "right": "2",
+                                    "bottom": "2",
+                                    "left": "2",
+                                    "isLinked": true
+                                },
+                                "border_color": "#F4F4F400",
+                                "border_radius": {
+                                    "unit": "px",
+                                    "top": "5",
+                                    "right": "5",
+                                    "bottom": "5",
+                                    "left": "5",
+                                    "isLinked": true
+                                },
+                                "text_padding": {
+                                    "unit": "px",
+                                    "top": "15",
+                                    "right": "17",
+                                    "bottom": "15",
+                                    "left": "17",
+                                    "isLinked": false
+                                },
+                                "__globals__": {
+                                    "typography_typography": "globals\/typography?id=ae264cb",
+                                    "button_text_color": "globals\/colors?id=460176a",
+                                    "background_color": "globals\/colors?id=b09e89f",
+                                    "hover_color": "globals\/colors?id=460176a",
+                                    "button_background_hover_color": "globals\/colors?id=41af12e",
+                                    "button_hover_border_color": "globals\/colors?id=b09e89f",
+                                    "border_color": "globals\/colors?id=41af12e"
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "button",
+                            "elType": "widget"
+                        }
+                    ],
+                    "isInner": false,
+                    "elType": "column"
+                }
+            ],
+            "isInner": false,
+            "elType": "section"
+        }
+    ]
+}
